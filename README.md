@@ -2,7 +2,7 @@
 Example C++ projects for Russian "Milandr" (MDR) microcontrollers
 
 ## Notes
- I have patched the Milandr SPL/CMSIS libraries for GCC compatibility. Use GNU Arm Embedded Toolchain to build sources.
+ The Milandr SPL/CMSIS libraries patched for GCC compatibility (+ custom LinkerScript and startup files). Use GNU Arm Embedded Toolchain to build sources.
 
 ## Building with Eclipse
  - Install Eclipse
